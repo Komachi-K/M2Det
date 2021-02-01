@@ -4,6 +4,7 @@
 
 <div align=center><img src="imgs/COCO_val2014_000000005205_EQU_m2det.jpg" width="200" hegiht="80" align=center />
 <div align=center><img src="imgs/COCO_val2014_000000005205_m2det.jpg" width="200" hegiht="80" align=center />
+<div align=left>
 
 実験環境はGoogleColaboratoryを主に使用
 
