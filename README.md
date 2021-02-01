@@ -1,6 +1,8 @@
 # M2Detのデモや学習に使用したもの
 入力画像による結果への影響等を確認
 
+--------------以下は引用----------------
+
 # M2Det
 Codebase for AAAI2019 "M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network" [[Paper link]](https://qijiezhao.github.io/imgs/m2det.pdf)
 
