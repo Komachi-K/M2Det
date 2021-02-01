@@ -2,8 +2,8 @@
 
 入力画像による出力結果への影響等を確認
 
-<div align=center><img src="imgs/COCO_val2014_000000005205_EQU_m2det.jpg" width="300" hegiht="120" align=center />
-<div align=center><img src="imgs/COCO_val2014_000000005205_m2det.jpg" width="300" hegiht="120" align=center />
+<div align=center><img src="imgs/COCO_val2014_000000005205_EQU_m2det.jpg" width="200" hegiht="80" align=center />
+<div align=center><img src="imgs/COCO_val2014_000000005205_m2det.jpg" width="200" hegiht="80" align=center />
 
 実験環境はGoogleColaboratoryを主に使用
 
