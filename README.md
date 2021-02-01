@@ -6,6 +6,7 @@
   <div/>
 
 <div align=left>
+  
 実験環境はGoogleColaboratoryを主に使用
 
 --------------以下は本家から引用----------------
